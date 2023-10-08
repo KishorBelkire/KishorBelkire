@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kishor Belkire</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://images.app.goo .gl/gU6UMwRjL4JXZvgV6
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/kishor belkire jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kishor belkire jain" height="30" width="40" /></a>
